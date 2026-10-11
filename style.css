@@ -1,0 +1,21 @@
+header {
+    background-color: #E567B1;
+    color: #A2EF00;
+}
+header img {
+margin-right: 5px;
+}
+.kol { 
+    color: #88B32D;
+    border: 2px solid #982669;
+    padding: 5px;
+}
+.tgb { 
+    color: #84004D;
+    border: 2px solid #699B00;
+    padding: 5px;
+}
+footer { 
+    background-color: #699B00;
+    color: #982669;
+}
